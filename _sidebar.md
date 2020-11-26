@@ -3,9 +3,9 @@
 
 * Epics基础篇
 
-  * [Epics基础概念](../docs/a-1EPICS基础概念.md)
-  * [关于StreamDevice的说明](../docs/a-2关于StreamDevice的说明.md)
-  * [实战案例](../docs/a-3实战案例.md)
+  * [Epics基础概念](./docs/a-1EPICS基础概念.md)
+  * [关于StreamDevice的说明](./docs/a-2关于StreamDevice的说明.md)
+  * [实战案例](./docs/a-3实战案例.md)
   
     
 
