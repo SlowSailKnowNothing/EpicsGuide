@@ -57,13 +57,15 @@ ESLO = (EGUF − EGUL) / (RVAL_max − RVAL_min)
 
 根据源码，我们可以找到RVAL_max和RVAL_min的位置如下：
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7ece0369-8627-40ba-baaf-2aee0e0b3209/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201130%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201130T090158Z&X-Amz-Expires=86400&X-Amz-Signature=aeb5dcd1ff6fd050790bd0f6860d3f7afc0160145d0b998c956a18d3d928b626&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![image-20201202203738543](a-5谈谈ai记录的单位转换.assets/image-20201202203738543.png)
 
 而devicehigh由nbits确定如下所示：
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/33570929-3981-4c41-a4fa-69184deb0886/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201130%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201130T090355Z&X-Amz-Expires=86400&X-Amz-Signature=0688f2867c1aeb2acc17cdb8ffc6776f804c14fcf686b1fbb675f4b67d3465b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![image-20201202203841810](a-5谈谈ai记录的单位转换.assets/image-20201202203841810.png)
 
-nbits可以由字段中的INP指定：![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ecea364d-f095-46eb-bf30-3c6f3c4feb64/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201130%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201130T090458Z&X-Amz-Expires=86400&X-Amz-Signature=70a7755589f3573e70d9f86ea41b8eb0db820858b5d38433fd41e22c852fc9c1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+nbits可以由字段中的INP指定：
+
+![image-20201202203805297](a-5谈谈ai记录的单位转换.assets/image-20201202203805297.png)
 
 不过，这里的nbits只能指定为
 
