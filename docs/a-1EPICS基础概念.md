@@ -14,7 +14,7 @@ EPICS指的是一套软件生态，该软件生态以EPICSBase为核心，附加
 
 IOC的核心是数据库，体现在我们的例子中是记录文件和记录定义文件。在上面的教程完成之后，我们的目录结构是这样的：
 
-![image-20201125205634349](C:\Users\10672\AppData\Roaming\Typora\typora-user-images\image-20201125205634349.png)
+![image-20201125205634349](a-1EPICS基础概念.assets/image-20201125205634349.png)
 
 其中，bin存放着的是二进制程序，实际上是整个程序的解释器（可以参见st.cmd）部分。
 
