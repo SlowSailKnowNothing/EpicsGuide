@@ -9,3 +9,5 @@
 ##### [安装vmtools之后任然不能在虚拟机和主机之间复制粘贴的问题](https://blog.csdn.net/xc_zhou/article/details/80732396?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
 
 ##### [启动Tomcat 出现 Can't load AMD 64-bit .dll on a IA 32-bit platform错误的解决办法](https://blog.csdn.net/qinkang1993/article/details/52671368)
+
+windows设置静态ip无效的问题：注意设置的是电脑主机网卡的ip，如果和设备相连，设备ip可能会导致冲突。
