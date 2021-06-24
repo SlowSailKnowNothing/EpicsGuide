@@ -1,4 +1,4 @@
-### 谈谈ai记录的单位转换
+### ai记录的单位转换
 
 首先，参考[记录参考手册](https://epics.anl.gov/base/R3-15/8-docs/aiRecord.html)的说明，对于读进来的数据，ai记录有如下的处理规则：
 
