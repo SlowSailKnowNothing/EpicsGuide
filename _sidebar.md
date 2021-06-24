@@ -15,9 +15,9 @@
   
 * [EPICS开发中可能遇到的问题以及搜集到的答案](./docs/a-6EPICS开发中可能遇到的问题以及搜集到的答案.md)
   
-* [利用Stramdevice从硬件读取waveform数据](./docs/a-7利用Stramdevice从硬件读取waveform数据.md)
+* [利用Stramdevice从硬件读取waveform数据](./docs/a-7利用Streamdevice从硬件读取waveform数据.md)
   
-* [S7PLC使用说明](./docs/a-8S7PLC使用说明.md)
+* [S7PLC使用说明](./docs/a-8s7plc使用说明.md)
   
   
 
